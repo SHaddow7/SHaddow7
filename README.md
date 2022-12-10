@@ -4,9 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[https://preview.redd.it/wqvhiqwpuu391.gif?format=mp4&s=08e76186b9ce9f4215b7a3e703a010c3ff538ae3
-](https://preview.redd.it/wqvhiqwpuu391.gif?format=mp4&s=08e76186b9ce9f4215b7a3e703a010c3ff538ae3)
-<!---
-SHaddow7/SHaddow7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![207984](https://user-images.githubusercontent.com/46909788/206862067-7a17e3e4-c094-41c8-a11a-a93c20183c80.gif)
