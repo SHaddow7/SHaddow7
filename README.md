@@ -3,16 +3,7 @@
 </div>  
 
 ### <div align="center">👋 Hi, I’m SHaddow7</div>  
-  
 
-- 🔭 I’m currently working on 
-  
-
-- 🌱 I’m currently learning 
-  
-  
-- ⚡ Fun fact:
-  
 
 <br/>  
 
