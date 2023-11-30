@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 32px">👋 Hi, I’m Tak3shi</div>
+<div align="center" style="font-size: 32px">👋 Hi, I’m Shaddow SEPT</div>
 
 <br/>  
 
